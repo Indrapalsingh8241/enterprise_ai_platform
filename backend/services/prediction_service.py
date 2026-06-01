@@ -6,6 +6,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent
 
 MODEL_PATH = BASE_DIR / "ml_models" / "profit_prediction_model.pkl"
 FEATURES_PATH = BASE_DIR / "ml_models" / "feature_columns.pkl"
+print("BASE_DIR:", BASE_DIR)
+print("MODEL_PATH:", MODEL_PATH)
+print("EXISTS:", MODEL_PATH.exists())
 
 model = joblib.load(MODEL_PATH)
 
