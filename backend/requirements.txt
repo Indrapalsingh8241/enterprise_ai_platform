@@ -3,13 +3,16 @@ uvicorn
 pandas
 numpy
 scikit-learn
+scipy
 joblib
 xgboost
-python-multipart
+
 python-dotenv
+python-multipart
 
 matplotlib
 seaborn
+openpyxl
 
 langchain
 langchain-community
@@ -20,3 +23,8 @@ langchain-groq
 chromadb
 sentence-transformers
 huggingface_hub
+faiss-cpu
+
+requests
+pydantic
+groq
