@@ -9,3 +9,4 @@ python-multipart
 matplotlib
 seaborn
 langchain-groq
+python-dotenv
