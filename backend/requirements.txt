@@ -7,3 +7,4 @@ joblib
 xgboost
 python-multipart
 matplotlib
+seaborn
