@@ -1,10 +1,10 @@
 from fastapi import APIRouter
 
-from backend.models.prediction_schema import (
+from models.prediction_schema import (
     ProfitPredictionRequest
 )
 
-from backend.services.prediction_service import (
+from services.prediction_service import (
     predict_profit
 )
 
