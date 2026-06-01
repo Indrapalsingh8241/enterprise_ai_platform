@@ -8,3 +8,4 @@ xgboost
 python-multipart
 matplotlib
 seaborn
+langchain-groq
