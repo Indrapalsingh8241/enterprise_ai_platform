@@ -1,0 +1,43 @@
+Feature Importance Analysis
+
+Top Features Influencing Profit Prediction
+
+1. Discounted_Sales
+Importance: 0.3419
+
+2. Discount
+Importance: 0.1988
+
+3. Discount_Amount
+Importance: 0.0785
+
+4. Price_Per_Item
+Importance: 0.0704
+
+5. Sales
+Importance: 0.0517
+
+6. Sub-Category_Storage
+Importance: 0.0432
+
+7. Category_Office Supplies
+Importance: 0.0245
+
+8. Shipping Days
+Importance: 0.0204
+
+9. Quantity
+Importance: 0.0189
+
+10. Category_Technology
+Importance: 0.0182
+
+Insights:
+
+Discount-related variables have the greatest influence on profit.
+
+Sales value and pricing metrics strongly affect profitability.
+
+Product category and sub-category also contribute to prediction performance.
+
+Shipping Days and Quantity have relatively smaller effects.

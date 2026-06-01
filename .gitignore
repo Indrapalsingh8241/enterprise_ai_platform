@@ -1,0 +1,11 @@
+.env
+myvenv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+notebooks/
+visualizations/
+
+*.pyc
+*.pyo

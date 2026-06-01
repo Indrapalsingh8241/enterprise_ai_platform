@@ -1,0 +1,36 @@
+Machine Learning Model Evaluation
+
+Project:
+Superstore Profit Prediction
+
+Target Variable:
+Profit
+
+Best Performing Model:
+Random Forest Regressor
+
+Model Performance:
+
+Train R2 Score: 0.8901
+
+Test R2 Score: 0.7412
+
+Cross Validation Score: 0.72
+
+Mean Absolute Error (MAE): 4.77
+
+Mean Squared Error (MSE): 95.09
+
+Observations:
+
+1. Random Forest outperformed Linear Regression and Decision Tree models.
+
+2. The model explains approximately 74% of profit variation.
+
+3. Cross-validation results indicate stable model performance.
+
+4. Some overfitting is present because train performance is significantly higher than test performance.
+
+Conclusion:
+
+The Random Forest model provides reliable profit predictions and is suitable for business analytics applications.

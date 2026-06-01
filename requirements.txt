@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+sqlalchemy
+psycopg2-binary
+streamlit
+python-multipart
+openpyxl
+langchain
+openai
+faiss-cpu
+jupyter
